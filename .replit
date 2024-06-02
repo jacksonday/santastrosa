@@ -1,0 +1,21 @@
+run = "npm run astro dev"
+modules = ["nodejs-20:v8-20230920-bd784b9"]
+hidden = [".config", "package-lock.json"]
+
+[nix]
+channel = "stable-23_11"
+
+[deployment]
+build = "npm run astro build"
+ignorePorts = false
+deploymentTarget = "static"
+publicDir = "dist"
+
+[[ports]]
+localPort = 4321
+externalPort = 80
+exposeLocalhost = true
+
+[[ports]]
+localPort = 24678
+externalPort = 3000
