@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "title": "Discover Santa Rosa",
+    "subtitle": "Where Wine Country Meets Urban Sophistication",
+    "description": "Experience the vibrant heart of Sonoma County, California - a city renowned for its world-class wineries, rich history, and thriving cultural scene.",
+    "ctaText": "Explore Now",
+    "ctaLink": "#attractions"
+  },
+  "seo": {
+    "title": "Santa Rosa - Heart of Sonoma Wine Country | Visit California",
+    "description": "Discover Santa Rosa, California - the vibrant heart of Sonoma Wine Country. Explore world-class wineries, historic attractions, outdoor adventures, and local cuisine in this dynamic Northern California city.",
+    "keywords": "Santa Rosa, Sonoma County, Wine Country, California tourism, wineries, outdoor recreation, Charles Schulz"
+  },
+  "cards": [
+    {
+      "id": 1,
+      "title": "World-Class Wineries",
+      "description": "Explore over 425 wineries in Sonoma County, with Santa Rosa serving as your perfect home base. From boutique tasting rooms to renowned estates, experience exceptional wines in stunning settings.",
+      "buttonText": "Browse Wineries",
+      "buttonLink": "#wineries",
+      "icon": "🍷"
+    },
+    {
+      "id": 2,
+      "title": "Rich Cultural Heritage",
+      "description": "Visit the Charles M. Schulz Museum, historic Railroad Square, and vibrant arts scene. Santa Rosa blends its agricultural roots with contemporary culture and innovation.",
+      "buttonText": "Discover Culture",
+      "buttonLink": "#culture",
+      "icon": "🎨"
+    },
+    {
+      "id": 3,
+      "title": "Outdoor Adventures",
+      "description": "From the Russian River to Annadel State Park, enjoy hiking, kayaking, cycling, and more. Santa Rosa offers year-round outdoor recreation in a Mediterranean climate.",
+      "buttonText": "Plan Adventures",
+      "buttonLink": "#outdoors",
+      "icon": "🏞️"
+    }
+  ],
+  "finalSection": {
+    "heading": "Your Gateway to California's Wine Country",
+    "subheading": "Start Planning Your Santa Rosa Experience Today",
+    "backgroundImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1920&q=80"
+  }
+}
