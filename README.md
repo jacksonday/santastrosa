@@ -184,11 +184,6 @@ const response = await fetch(`${API_URL}/content`);
 
 ## 🌐 Deployment
 
-### Deploy on Replit
-1. Click the "Deploy" button in the Replit interface
-2. Select "Static" deployment type
-3. Replit will automatically build and deploy your site
-
 ### Deploy to Vercel
 ```bash
 npm install -g vercel
