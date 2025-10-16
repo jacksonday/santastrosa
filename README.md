@@ -36,9 +36,9 @@ A modern, server-rendered landing page showcasing Santa Rosa, California, built 
 ## 🎨 Design Decisions
 
 ### 1. **Astro Framework**
-- **Why**: Zero JavaScript by default, excellent for content-focused pages
+- **Why**: Zero JavaScript by default, excellent for content-focused pages, demonstrate comfort with using the framework.
 - **Benefits**: 
-  - Fastest possible page loads (static HTML)
+  - Fast page loads (static HTML)
   - SEO-friendly out of the box
   - Server-side rendering with no client-side hydration needed
   - Built-in component model similar to other modern frameworks
